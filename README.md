@@ -1,4 +1,5 @@
-🔓 Ataque de Diccionario a Archivos ZIP
+#🔓 Ataque de Diccionario a Archivos ZIP
+
 Un script educativo en Python diseñado para ilustrar cómo funciona un ataque de diccionario simple contra un archivo .zip protegido por contraseña. El propósito de esta herramienta es puramente académico, ideal para estudiantes y entusiastas de la ciberseguridad que deseen comprender los conceptos básicos de la vulnerabilidad de contraseñas.
 
 🚀 Características
