@@ -61,7 +61,7 @@ Abre una terminal en el directorio del proyecto y ejecuta:
 
 Bash
 
-python unzip.py
+python main.py
 El programa comenzará a probar las contraseñas del diccionario. Si encuentra la correcta, la mostrará en la terminal y finalizará.
 
 ⚠️ Descargo de Responsabilidad y Uso Ético
